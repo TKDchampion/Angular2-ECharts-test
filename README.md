@@ -1,4 +1,7 @@
-# EchartNg2Test
+# Pratice Echarts-ng2
+[DEMO](https://tkdchampion.github.io/Angular2-ECharts-test/index)
+
+## EchartNg2Test
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.7.
 
