@@ -1,4 +1,4 @@
-# Pratice Echarts-ng2
+# Practice Echarts-ng2
 [DEMO](https://tkdchampion.github.io/Angular2-ECharts-test/index)
 
 ## EchartNg2Test
